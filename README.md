@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DinhTong
-- 👀 I’m interested in Data analytic and process automation
-- 🌱 I’m currently learning Python and MySQL
+- 👋 Hi, I’m @DinhTong Or Ben
+- 👀 I’m interested in Data Analytics, Data Architecture and process automation
+- 🌱 I’m currently learning Python and MySQL - SSMS is my zone
 - 💞️ I’m looking to collaborate on ... loading...
 - 📫 How to reach me ... loading...
 
